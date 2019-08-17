@@ -1,12 +1,16 @@
 ## Metrics dashboard
 
+1. Install the packages
+
+`yarn`
+
 In order to run the application you need to start the server and the client.
 
-To start the server run:
+2. To start the server run:
 
 `yarn start:server`
 
-To start the client run:
+3. To start the client run:
 
 `yarn start`
 
